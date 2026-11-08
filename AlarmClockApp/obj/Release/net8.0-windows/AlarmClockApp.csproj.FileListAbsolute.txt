@@ -1,0 +1,14 @@
+D:\alarm\AlarmClockApp\bin\Release\net8.0-windows\AlarmClockApp.exe
+D:\alarm\AlarmClockApp\bin\Release\net8.0-windows\AlarmClockApp.deps.json
+D:\alarm\AlarmClockApp\bin\Release\net8.0-windows\AlarmClockApp.runtimeconfig.json
+D:\alarm\AlarmClockApp\bin\Release\net8.0-windows\AlarmClockApp.dll
+D:\alarm\AlarmClockApp\bin\Release\net8.0-windows\AlarmClockApp.pdb
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.AssemblyInfoInputs.cache
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.AssemblyInfo.cs
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.csproj.CoreCompileInputs.cache
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.dll
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\refint\AlarmClockApp.dll
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.pdb
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\AlarmClockApp.genruntimeconfig.cache
+D:\alarm\AlarmClockApp\obj\Release\net8.0-windows\ref\AlarmClockApp.dll
